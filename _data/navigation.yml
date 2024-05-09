@@ -1,8 +1,8 @@
 - name: 主页
   link: /
 - name: 博客
-  link: CaoShiba-org.io/blog.html
+  link: /blog.html
 - name: 员工
-  link: CaoShiba-org.io/staff.html
+  link: /staff.html
 - name: 关于
-  link: CaoShiba-org.io/about.html
+  link: /about.html
